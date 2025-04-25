@@ -10,7 +10,9 @@ Achieved goals:
 - Started the project
 - Obtained WSL and ubuntu
 - Downloaded emulator
+- Can Start Games
 
 Future steps:
-- Start games on laptop
 - Configure UI with python
+- Make it possible to open on RasberryPi
+- Make the controller

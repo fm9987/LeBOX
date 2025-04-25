@@ -21,6 +21,9 @@ Future steps:
 
 
 Every time I change something change it with this:
-git add . \\
-git commit -m "Your message about what changed" \\
+
+git add .
+
+git commit -m "Your message about what changed" 
+
 git push

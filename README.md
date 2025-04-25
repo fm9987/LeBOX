@@ -11,8 +11,16 @@ Achieved goals:
 - Obtained WSL and ubuntu
 - Downloaded emulator
 - Can Start Games
+- The button from Arduino acts as a keyboard key
+
 
 Future steps:
 - Configure UI with python
 - Make it possible to open on RasberryPi
-- Make the controller
+- Make input from button usable on WSL
+
+
+Every time I change something change it with this:
+git add .
+git commit -m "Your message about what changed"
+git push
